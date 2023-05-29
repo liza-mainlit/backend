@@ -1,0 +1,30 @@
+[
+  {
+    "model": "users.user",
+    "pk": null,
+    "fields": {
+      "password": "argon2$argon2id$v=19$m=102400,t=2,p=8$dVF3bmxxN2F6ZU9VMEwyVkpJWGZ1UA$up3b6U9xhQkm22KQtbghktTqEgvcIbI8aoxDky3oLrQ",
+      "is_staff": true,
+      "is_active": true,
+      "email": "laboratory-admin@aim.ru",
+      "user_permissions": [
+        123,
+        124,
+        125,
+        126,
+        135,
+        136,
+        137,
+        138,
+        131,
+        132,
+        133,
+        134,
+        127,
+        128,
+        129,
+        130
+      ]
+    }
+  }
+]
